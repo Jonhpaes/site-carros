@@ -271,6 +271,17 @@ img {
   margin-bottom: .25rem;
 }
 
+
+.home__car-icon {
+  background-color: var(--container-color);
+  border-radius: 50%;
+  padding: .376rem;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-size: .875rem;
+  margin-bottom: .75rem;
+}
 /* Button animate */
 
 
