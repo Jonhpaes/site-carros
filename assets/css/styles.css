@@ -904,7 +904,8 @@ img {
 /* For small devices */
 @media screen and (max-width: 576px){
   .features__map{
-    width: 600px;
+    left: 0;
+    right: 0;
   }
 }
 @media screen and (max-width: 320px){
