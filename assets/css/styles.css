@@ -902,7 +902,7 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 580px){
+@media screen and (max-width: 576px){
   .features__map{
     width: 600px;
   }
