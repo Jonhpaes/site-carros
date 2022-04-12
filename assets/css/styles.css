@@ -902,6 +902,11 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
+@media screen and (max-width: 580px){
+  .features__map{
+    width: 600px;
+  }
+}
 @media screen and (max-width: 320px){
   .container{
     margin-left: 1rem;
@@ -914,10 +919,6 @@ img {
 
   .about__card{
     width: 150px;
-  }
-
-  .features__map{
-    max-width: 580px;
   }
 
   .offer__container{
@@ -1112,6 +1113,11 @@ margin-bottom: 4rem;
     .offer__data{
       margin-bottom: 0;
     }
+
+    .offer__data{
+      padding-left: 25px;
+    }
+
     .offer__description{
       padding-right: 6rem;
     }
