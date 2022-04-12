@@ -753,7 +753,7 @@ img {
   opacity: .4;
   transition: 1s;
   background-color: hsla(0, 0%, 100%, .1);
-  padding: 5px;
+  padding: 8px;
   border-radius: 10px;
 }
 
@@ -767,6 +767,7 @@ img {
 
 .logos__img:hover {
   opacity: 1;
+  background-color: rgba(101, 0, 252, 0.231);
 }
 
 
